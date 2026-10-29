@@ -1,0 +1,23 @@
+{
+  "brand": "Ranný brief",
+  "version": "1.0",
+  "canvas": {
+    "width": 1080,
+    "height": 1350
+  },
+  "tokens": {
+    "--rb-background": "#07130e",
+    "--rb-forest": "#164d34",
+    "--rb-accent": "#9ae3b8",
+    "--rb-text": "#eff7f1",
+    "--rb-body": "#c4d7ca",
+    "--rb-muted": "#afc7b7",
+    "--rb-grid": "#d6e8dc13",
+    "--rb-border": "#c2efd322",
+    "--rb-gutter": "6.666667cqw",
+    "--rb-title": "7.962963cqw",
+    "--rb-cover-title": "7.037037cqw",
+    "--rb-body-size": "3.611111cqw",
+    "--rb-radius": "2.592593cqw"
+  }
+}
